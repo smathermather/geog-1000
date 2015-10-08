@@ -1,7 +1,7 @@
-I{
+var groupa = {
   "type": "FeatureCollection",
   "features": [
-{
+  {
   "type": "FeatureCollection",
   "features": [
     {
